@@ -1,0 +1,3 @@
+git add.
+git commit -m "[title]" -m "[describtion]"
+git push
